@@ -190,6 +190,6 @@ El archivo [`tb_signed_counter.v`](./tb_signed_counter.v) implementa la secuenci
 
 ## Videos de Pruebas
 
-[![Prueba 1](https://youtube.com)](https://drive.google.com/file/d/1O4OeGRAVDswe-N4z6eKD4HWBtbDZN0T9/preview)
+[![Watch Demo Video](https://shields.io) Prueba 1](https://drive.google.com/file/d/1O4OeGRAVDswe-N4z6eKD4HWBtbDZN0T9/preview)
 
-[![Prueba 2](https://youtube.com)](https://drive.google.com/file/d/1O4OeGRAVDswe-N4z6eKD4HWBtbDZN0T9/preview)
+[![Watch Demo Video](https://shields.io) Prueba 2](https://drive.google.com/file/d/1O4OeGRAVDswe-N4z6eKD4HWBtbDZN0T9/preview)
